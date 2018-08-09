@@ -1,6 +1,6 @@
 Kotlin Restful Api Demo
 =======================
 
-Use [ktor](http://ktor.io) to write web server.
+Use [ktor](http://ktor.io) to write restful api.
 
-Run `Hello.kt` in your IDE, and open <http://localhost:8080> in your browser.
+Run `Hello.kt` in your IDE.
